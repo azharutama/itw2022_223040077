@@ -1,0 +1,30 @@
+body {
+  background-color: aqua;
+  font-family: georgia;
+}
+
+h1 {
+  font-family: Comic sans ms;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+
+.instagram {
+  color: white;
+  font-variant: small-caps;
+}
+
+.p1 {
+  text-align: center;
+  color: #ff7f24;
+}
+
+.p2 {
+  text-align: right;
+}
