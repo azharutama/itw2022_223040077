@@ -1,0 +1,45 @@
+.kotak1 {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(255, 129, 129);
+  border-radius: 100px 0px 0px 0px;
+  background-image: url();
+  opacity: 50%;
+}
+p {
+  margin-top: -100px;
+}
+
+.kotak2 {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(245, 150, 8);
+  box-shadow: 10px 10px 0px 10px red, -10px -10px 30px blue;
+}
+
+body {
+  height: 1000px;
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-family: arial;
+  font-size: 100px;
+  margin-top: 110px;
+  text-shadow: -5px -3px 0px red;
+}
+
+.kotak3 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  transition: 5s;
+  background-color: 2s;
+}
+
+.kotak3:hover {
+  transform: rotate(720deg);
+  background-color: brown;
+  border-radius: 50px;
+}
